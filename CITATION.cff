@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this map, please cite it as below."
 authors:
-- given-names: "{IUT} Construction \& Technical Office"
+- given-names: "IUT Construction and Technical Office"
 title: "IUTLIB"
 version: 1.0.0
 doi: 10.5281/zenodo.1234
