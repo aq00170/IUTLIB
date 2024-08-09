@@ -16,7 +16,7 @@ If you use this map as a dataset, please cite it as follows:
 
 ```bibtex
 @misc{PL,
-  author       = {{IUT Construction and Technical Office}},
+  author       = {{IUT Construction \& Technical Office}},
   title        = {IUTLIB},
   year         = {2024},
   month        = aug,
